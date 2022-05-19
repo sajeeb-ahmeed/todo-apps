@@ -47,7 +47,7 @@ const Header = () => {
                         </Nav>
                         <Nav>
 
-                            <Nav.Link as={Link} to="/todo">Add Todo</Nav.Link>
+                            <Nav.Link as={Link} to="/todo">Todo App</Nav.Link>
                             {
                                 user ?
                                     <>
